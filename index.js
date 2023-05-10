@@ -34,8 +34,8 @@ const car1 = new Car("black", 2022, "Ford");
 car1.setCarName("Mustang");
 car1.getCarName();
 
-const car2 = new Car("Silver", 2013, "Hyundai");
-car2.setCarName("i30");
+const car2 = new Car("white", 2013, "Hyundai");
+car2.setCarName("HB20");
 car2.getCarName();
 
 const motorbike = new Motorbike("red", 2019, "Honda");
